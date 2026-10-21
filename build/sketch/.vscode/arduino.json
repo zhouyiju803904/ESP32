@@ -1,0 +1,7 @@
+#line 1 "C:\\Users\\user\\Desktop\\ESP32\\.vscode\\arduino.json"
+{
+    "sketch": "ESP32.ino",
+    "output": "build",
+    "board": "esp32:esp32:esp32",
+    "port": "COM7"
+}

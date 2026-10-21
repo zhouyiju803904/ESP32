@@ -1,0 +1,6 @@
+#line 1 "C:\\Users\\user\\Desktop\\ESP32\\.vscode\\settings.json"
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "${env:USERPROFILE}\\.platformio\\penv\\Scripts;${env:PATH}"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "sketch": "ESP32.ino",
+    "output": "build",
+    "board": "esp32:esp32:esp32",
+    "port": "COM7"
+}
